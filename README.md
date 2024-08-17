@@ -4,12 +4,12 @@
   <a href="https://github.com/dylan751/booking-app-back-end">
   </a>
 
-<h3 align="center">Booking App Back End</h3>
+<h3 align="center">Booking App Front End</h3>
 
   <p align="center">
     The front-end part of the Booking app (Clone from <b>https://booking.com</b> project)
     <br />
-    <a href="https://github.com/dylan751/booking-app-front-end"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dylan751/booking-app-back-end"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/dylan751/booking-app-back-end">View Repo</a>
@@ -56,10 +56,10 @@
 
 ## 🧑‍💻 Development Stack
 
-- `Frontend` - Next.js, React.js & Ant Design
+- `Backend` - Next.js, React.js & Ant Design
 
 ## ⛳️ Live Preview
 
-- Backend (Client Side) - [`🚀 Click to Visit`][frontend-link]
+- Backend (Client Side) - [`🚀 Click to Visit`][backend-link]
 
-[Backend-link]: https://booking.com
+[backend-link]: https://booking.com
