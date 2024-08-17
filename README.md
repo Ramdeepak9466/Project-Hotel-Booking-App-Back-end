@@ -1,65 +1,15 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/dylan751/booking-app-front-end">
-  </a>
+# ✨ Booking app| Hotel Room Booking System
 
-<h3 align="center">Booking App Front End</h3>
+Hello 👋, I'm <strong>I'm S.Ramdeepak </strong>. In this repository i will be build a `Complete 'Booking' | Hotel Room Booking System - Web application`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect and explore somethings new. Thanks
 
-  <p align="center">
-    The front-end part of the Booking app (Clone from <b>https://booking.com</b> project)
-    <br />
-    <a href="https://github.com/dylan751/booking-app-front-end"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/dylan751/booking-app-front-end">View Repo</a>
-    ·
-    <a href="https://github.com/dylan751/booking-app-front-end/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/dylan751/booking-app-front-end/issues">Request Feature</a>
-  </p>
-</div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-
-<img src="public/images/project-screenshot.png" />
-
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+<!-- contents of projects -->
 
 ## 🧑‍💻 Development Stack
 
-- `Frontend` - Next.js, React.js & Ant Design
-
+- `Backend` - Node.js, Express.js & MongoDB Database
+  
 ## ⛳️ Live Preview
 
-- Frontend (Client Side) - [`🚀 Click to Visit`][frontend-link]
+- Backend (Client Side) - [`🚀 Click to Visit`][Backend-link]
 
-[frontend-link]: https://booking.com
+[Backend-link]: https://booking.com
