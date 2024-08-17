@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/dylan751/booking-app-back-end">
+  <a href="https://github.com/dylan751/booking-app-front-end">
   </a>
 
 <h3 align="center">Booking App Front End</h3>
@@ -9,14 +9,14 @@
   <p align="center">
     The front-end part of the Booking app (Clone from <b>https://booking.com</b> project)
     <br />
-    <a href="https://github.com/dylan751/booking-app-back-end"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dylan751/booking-app-front-end"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/dylan751/booking-app-back-end">View Repo</a>
+    <a href="https://github.com/dylan751/booking-app-front-end">View Repo</a>
     ·
-    <a href="https://github.com/dylan751/booking-app-back-end/issues">Report Bug</a>
+    <a href="https://github.com/dylan751/booking-app-front-end/issues">Report Bug</a>
     ·
-    <a href="https://github.com/dylan751/booking-app-back-end/issues">Request Feature</a>
+    <a href="https://github.com/dylan751/booking-app-front-end/issues">Request Feature</a>
   </p>
 </div>
 
@@ -56,10 +56,10 @@
 
 ## 🧑‍💻 Development Stack
 
-- `Backend` - Next.js, React.js & Ant Design
+- `Frontend` - Next.js, React.js & Ant Design
 
 ## ⛳️ Live Preview
 
-- Backend (Client Side) - [`🚀 Click to Visit`][backend-link]
+- Frontend (Client Side) - [`🚀 Click to Visit`][frontend-link]
 
-[backend-link]: https://booking.com
+[frontend-link]: https://booking.com
